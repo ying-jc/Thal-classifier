@@ -1,0 +1,2 @@
+#Modify the path of the following folder, do not make any other changes.
+classifiers folder = /path to/classifier
